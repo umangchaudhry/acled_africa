@@ -2,9 +2,9 @@
 A Python Package for performing analysis on the relationships between protests and battles in Africa Nations using the ACLED data
 
 # Quick navigation
-[Instructions](#instructions)  
+[Installation Instructions](#installation-instructions)  
 
-## Instructions
+## Installation Instructions
 
 To use this package, please clone this repository in the working directory for your project. Once the acled_africa folder is in your working directory, you will be able to import the package as any other python package:
 
