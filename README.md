@@ -1,5 +1,5 @@
 # acled_africa
-A Python Package for performing analysis on the relationships between protests and battles in Africa Nations using the ACLED data
+A Python Package for performing analysis on the relationships between protests and battles in African Nations using the ACLED data
 
 # Quick navigation
 [Installation Instructions](#installation-instructions)  
