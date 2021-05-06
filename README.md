@@ -3,7 +3,7 @@ A Python Package for performing analysis on the relationships between protests a
 
 # Quick navigation
 [Installation Instructions](#installation-instructions)  
-[Dependencies](#dependencies) 
+[Dependencies](#dependencies)  
 [Package Structure](#package-structure)
 
 ## Installation Instructions
