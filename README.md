@@ -14,6 +14,20 @@ To use this package, please clone this repository in the working directory for y
 import acled_africa
 ```
 
+Additionally, each module within the package can be imported as follows:
+
+```python
+from acled_africa import eda
+from acled_africa import maps
+from acled_africa import country_analysis
+from acled_africa import textanalysis
+```
+
+Functions in each module can be called as follows:
+```python
+eda.region_event(params)
+```
+
 ## Dependencies
 
 This package uses several pacakges to run the build in functions. You will be required to install these dependencies before being able to use this package. However, once installed, you are not required to import the dependencies. The required packages are listed below:
