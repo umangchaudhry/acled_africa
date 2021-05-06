@@ -5,6 +5,7 @@ A Python Package for performing analysis on the relationships between protests a
 [Installation Instructions](#installation-instructions)  
 [Dependencies](#dependencies)  
 [Package Structure](#package-structure)
+[References](#references)
 
 ## Installation Instructions
 
@@ -183,7 +184,14 @@ This function performs cluster_analysis on the extracted keywords (you may speci
 **For more information on these functions, please use the help function in python to explore the documentation for each function**
 
 
+## References
 
+Keyword Extraction Functions based on Towards Data Science Article by Maarten Grootendorst: Keyword Extraction with BERT
+https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea
+
+Cluster Analysis Functions based on Medium article by Lucas de Sá: Text Clustering with K-Means
+https://medium.com/@lucasdesa/text-clustering-with-k-means-a039d84a941b
+https://github.com/lucas-de-sa/national-anthems-clustering/blob/master/Cluster_Anthems.ipynb
 
 
 
