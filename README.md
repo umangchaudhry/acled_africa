@@ -17,10 +17,12 @@ import acled_africa
 Additionally, each module within the package can be imported as follows:
 
 ```python
+import acled_africa
 from acled_africa import eda
 from acled_africa import maps
 from acled_africa import country_analysis
 from acled_africa import textanalysis
+eda.region_event(params)
 ```
 
 Functions in each module can be called as follows:
