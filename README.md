@@ -190,7 +190,7 @@ Keyword Extraction Functions based on Towards Data Science Article by Maarten Gr
 https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea
 
 Cluster Analysis Functions based on Medium article by Lucas de Sá: Text Clustering with K-Means  
-https://medium.com/@lucasdesa/text-clustering-with-k-means-a039d84a941b
+https://medium.com/@lucasdesa/text-clustering-with-k-means-a039d84a941b   
 https://github.com/lucas-de-sa/national-anthems-clustering/blob/master/Cluster_Anthems.ipynb
 
 
